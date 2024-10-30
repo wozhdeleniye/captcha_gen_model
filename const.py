@@ -1,0 +1,9 @@
+dataset_dir = './i_ignatenko_images_dataset'
+num_symbols = 119
+embedding_dim = 128
+captcha_length = 6
+image_size = (128, 256)
+latent_dim = 100
+batch_size = 64
+save_interval = 50
+models_save_path = './models'
